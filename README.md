@@ -1,17 +1,3 @@
-<!-- Header Animation -->
-<h3 align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="6">
-    👋 Hi, I'm <b>Vinit Jain</b> — Thank you for visiting my profile! 💫
-  </marquee>
-</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Enjoy+exploring+my+projects!" alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Optional Header Image -->
 <p align="center">
   <img src="./github-header-image.png" alt="Header" width="100%" />
@@ -47,7 +33,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,c,cpp,java,python,javascript,html,css,react,nodejs,git,github,firebase,gcp,tensorflow,pytorch,sklearn,pandas,linux" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=android,c,cpp,java,python,javascript,html,css,react,nodejs,git,github,firebase,gcp,tensorflow,pytorch,sklearn,pandas" alt="Languages and Tools"/>
 </p>
 
 ---
@@ -71,18 +57,15 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/vinitjain2005/vinitjain2005/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ## 🏅 Hacktoberfest Badges
 <p align="center">
   <a href="https://holopin.io/@vinitjain2005" target="_blank">
     <img src="https://holopin.me/vinitjain2005" alt="Holopin badges" width="720"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-green?style=for-the-badge&logo=hackaday" alt="Hacktoberfest 2025 Badge"/>
 </p>
 
 ---
@@ -100,7 +83,3 @@
 ---
 
 <h2 align="center">✨ Thank You for Visiting! ✨</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Thanks GIF" />
-</p>
