@@ -59,7 +59,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/vinitjain2005/vinitjain2005/blob/output/dist/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/vinitjain2005/vinitjain2005/output/dist/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
