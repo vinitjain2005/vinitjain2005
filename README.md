@@ -1,46 +1,60 @@
-![Header](./github-header-image.png)
+<!-- Header Animation -->
+<h3 align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="6">
+    👋 Hi, I'm <b>Vinit Jain</b> — Thank you for visiting my profile! 💫
+  </marquee>
+</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/vinitjain2005">
-    <img src="https://github.com/vinitjain2005.png" alt="vinitjain2005" width="120" height="120" style="border-radius:50%;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Enjoy+exploring+my+projects!" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Optional Header Image -->
+<p align="center">
+  <img src="./github-header-image.png" alt="Header" width="100%" />
+</p>
+
+<!-- About Section -->
 <h1 align="center">Hi 👋, I'm Vinit Jain</h1>
 <h3 align="center">
-Third-year B.Tech student in Artificial Intelligence and Data Science at Thakur College of Engineering and Technology.<br>
-Always eager to learn and take on new challenges.<br>
-Passionate about solving real-world problems and creating meaningful impact through technology.<br>
-I enjoy building intelligent, efficient, and reliable systems that can adapt, scale, and deliver value in practical scenarios.
+  🎓 Third-year <b>B.Tech student</b> specializing in <b>Artificial Intelligence and Data Science</b> at 
+  <b>Thakur College of Engineering and Technology</b>.<br><br>
+  🚀 I’m passionate about leveraging AI and data-driven approaches to solve <b>real-world problems</b> and make a 
+  <b>meaningful impact</b> through technology.<br><br>
+  💡 I love building <b>intelligent, scalable, and efficient systems</b> that can adapt to practical challenges and deliver 
+  real value.<br><br>
+  🌱 Always learning, experimenting, and striving to <b>push the boundaries of innovation</b>.
 </h3>
 
 ---
 
+<!-- Profile Views -->
 <p align="center">
-  <a href="https://github.com/vinitjain2005">
-    <img src="https://img.shields.io/badge/GitHub-vinitjain2005-%23000000?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/hacktoberfest">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge" alt="Hacktoberfest"/>
-  </a>
-  <a href="mailto:jainvinit246@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jainvinit246@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vinitjain2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Coding Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,html,css,javascript,nodejs,react,git,github,mysql,mongodb,linux" />
+  <img src="https://skillicons.dev/icons?i=android,c,cpp,java,python,javascript,html,css,react,nodejs,git,github,firebase,gcp,tensorflow,pytorch,sklearn,pandas,linux" alt="Languages and Tools"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinitjain2005&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="vinitjain2005 GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitjain2005&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitjain2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
 </p>
 
@@ -57,6 +71,13 @@ I enjoy building intelligent, efficient, and reliable systems that can adapt, sc
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/vinitjain2005/vinitjain2005/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ## 🏅 Hacktoberfest Badges
 <p align="center">
   <a href="https://holopin.io/@vinitjain2005" target="_blank">
@@ -66,7 +87,7 @@ I enjoy building intelligent, efficient, and reliable systems that can adapt, sc
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vinitjain2005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Jain-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -79,3 +100,7 @@ I enjoy building intelligent, efficient, and reliable systems that can adapt, sc
 ---
 
 <h2 align="center">✨ Thank You for Visiting! ✨</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Thanks GIF" />
+</p>
