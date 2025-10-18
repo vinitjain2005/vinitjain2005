@@ -33,7 +33,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,c,cpp,java,python,javascript,html,css,react,nodejs,git,github,firebase,gcp,tensorflow,pytorch,sklearn,pandas" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,git,github,firebase,gcp,tensorflow,pytorch" alt="Languages and Tools"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-green?style=for-the-badge&logo=hackaday" alt="Hacktoberfest 2025 Badge"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF6F61?style=for-the-badge&logo=hackclub&logoColor=white" alt="Hacktoberfest 2025 Badge"/>
 </p>
 
 ---
