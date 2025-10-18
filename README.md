@@ -57,11 +57,18 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/vinitjain2005/vinitjain2005/blob/output/dist/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ## 🏅 Hacktoberfest Badges
 <p align="center">
   <a href="https://holopin.io/@vinitjain2005" target="_blank">
     <p align="center">
-      <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2025 Badge"/>
+      <center><img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2025 Badge"/></center>
     </p>
     <img src="https://holopin.me/vinitjain2005" alt="Holopin badges" width="720"/>
   </a>
