@@ -60,12 +60,11 @@
 ## 🏅 Hacktoberfest Badges
 <p align="center">
   <a href="https://holopin.io/@vinitjain2005" target="_blank">
+    <p align="center">
+      <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2025 Badge"/>
+    </p>
     <img src="https://holopin.me/vinitjain2005" alt="Holopin badges" width="720"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF6F61?style=for-the-badge&logo=hackclub&logoColor=white" alt="Hacktoberfest 2025 Badge"/>
 </p>
 
 ---
