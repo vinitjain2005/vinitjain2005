@@ -57,14 +57,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vinitjain2005/vinitjain2005/main/assets/snake.gif" alt="Snake animation"/>
-</p>
-
-
----
-
 ## 🏅 Hacktoberfest Badges
 <div align="center">
 
