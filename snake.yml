@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
+  workflow_dispatch:       # allows you to run manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vinitjain2005
+          outputs: dist/snake.svg
+
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Action
+          author_email: actions@github.com
+          message: "Generated Snake Animation"
+          add: "dist/snake.svg"
