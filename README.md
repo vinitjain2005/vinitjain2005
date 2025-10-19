@@ -59,7 +59,6 @@
 
 ## 🏅 Hacktoberfest Badges
 <div align="center">
-
   <!-- Hacktoberfest Badge -->
   <a href="https://holopin.io/@vinitjain2005" target="_blank">
     <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Hacktoberfest 2025 Badge"/>
