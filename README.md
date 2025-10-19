@@ -65,7 +65,7 @@
   </a>
 
   <!-- Holopin Badges -->
-  <br><br>
+  <br>
   <img src="https://holopin.me/vinitjain2005" alt="Holopin badges" width="720"/>
 
 </div>
