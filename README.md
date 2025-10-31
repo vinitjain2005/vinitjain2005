@@ -45,7 +45,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitjain2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vinitjain2005&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak Stats"
+    width="420"
+  />
 </p>
 
 ---
