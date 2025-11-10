@@ -72,7 +72,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinitjain2005/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinit-jain-80a371320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Jain-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:jainvinit246@gmail.com" target="_blank">
