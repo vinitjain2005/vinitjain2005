@@ -37,6 +37,10 @@
 </p>
 
 ---
+## 🪐 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitjain2005&bg_color=0d1117&color=1abc9c&line=1abc9c&point=ffffff&hide_border=true" alt="Contribution Graph" width="720"/>
+</p>
 
 ## 🏅 Hacktoberfest Badges
 <div align="center">
