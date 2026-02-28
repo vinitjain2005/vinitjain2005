@@ -38,14 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinitjain2005&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitjain2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
-</p>
-
----
-
 ## 🏅 Hacktoberfest Badges
 <div align="center">
   <!-- Hacktoberfest Badge -->
