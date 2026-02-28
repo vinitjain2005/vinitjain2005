@@ -44,14 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitjain2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300"/>
 </p>
 
-
----
-
-## 🪐 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinitjain2005&bg_color=0d1117&color=1abc9c&line=1abc9c&point=ffffff&hide_border=true" alt="Contribution Graph" width="720"/>
-</p>
-
 ---
 
 ## 🏅 Hacktoberfest Badges
