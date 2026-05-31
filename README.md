@@ -6,7 +6,7 @@
 <!-- About Section -->
 <h1 align="center">Hi 👋, I'm Vinit Jain</h1>
 <h3 align="center">
-  🎓 Third-year <b>B.Tech student</b> specializing in <b>Artificial Intelligence and Data Science</b> at 
+  🎓 Fourth-year <b>B.Tech student</b> specializing in <b>Artificial Intelligence and Data Science</b> at 
   <b>Thakur College of Engineering and Technology</b>.<br><br>
   🚀 I’m passionate about leveraging AI and data-driven approaches to solve <b>real-world problems</b> and make a 
   <b>meaningful impact</b> through technology.<br><br>
